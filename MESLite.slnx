@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/MESLite.API/MESLite.API.csproj" />
+    <Project Path="backend/MESLite.Application/MESLite.Application.csproj" />
+    <Project Path="backend/MESLite.Domain/MESLite.Domain.csproj" />
+    <Project Path="backend/MESLite.Infrastructure/MESLite.Infrastructure.csproj" />
+    <Project Path="backend/MESLite.Simulator/MESLite.Simulator.csproj" />
+    <Project Path="backend/MESLite.Tests/MESLite.Tests.csproj" />
+  </Folder>
+</Solution>
