@@ -60,8 +60,6 @@ Simulator ve Application yalnızca `IProductionNotifier` arayüzüne bağlıdır
 
 **Frontend**: React 19 · TypeScript · Vite · Material UI · TanStack React Query · Recharts · @microsoft/signalr
 
-> **Not (.NET sürümü):** Proje başlangıçta .NET 9 hedefliyordu; geliştirme makinesinde yalnızca .NET 10 runtime kurulu olduğundan ve **.NET 10 bir LTS sürümü** olduğundan `net10.0` hedeflenmiştir. Kod neredeyse birebir aynıdır.
-
 ---
 
 ## Hızlı Başlangıç
