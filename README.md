@@ -126,7 +126,7 @@ dotnet ef migrations add <Ad> --project backend/MESLite.Infrastructure --startup
 
 ---
 
-## 📡 API Uç Noktaları
+## 📡 API Endpoints
 
 | Method | Endpoint                              | Açıklama |
 |--------|---------------------------------------|----------|
